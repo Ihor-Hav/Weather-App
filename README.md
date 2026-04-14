@@ -43,8 +43,7 @@ A simple full-stack weather application that allows users to get current weather
 - TypeScript  
 - TailwindCSS  
 - shadcn/ui  
-- lucide-react  
-- next-themes  
+- lucide-react
 
 ---
 
