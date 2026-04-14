@@ -8,6 +8,12 @@ A simple full-stack weather application that allows users to get current weather
 👉 https://weather-app-client-two.vercel.app/
 
 ---
+## 🚀 Gif
+
+![weather-app](https://github.com/user-attachments/assets/5d054c30-8e24-47f9-8541-e66728b2ee4f)
+
+
+---
 
 ## 🚀 Features
 
